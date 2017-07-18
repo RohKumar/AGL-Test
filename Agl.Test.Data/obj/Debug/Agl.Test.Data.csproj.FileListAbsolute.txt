@@ -1,0 +1,9 @@
+c:\Projects\Agl.Test\Agl.Test.Data\obj\Debug\Agl.Test.Data.csprojResolveAssemblyReference.cache
+c:\Projects\Agl.Test\Agl.Test.Data\bin\Debug\Agl.Test.Data.dll
+c:\Projects\Agl.Test\Agl.Test.Data\bin\Debug\Agl.Test.Data.pdb
+c:\Projects\Agl.Test\Agl.Test.Data\bin\Debug\Agl.Test.Domain.dll
+c:\Projects\Agl.Test\Agl.Test.Data\bin\Debug\Newtonsoft.Json.dll
+c:\Projects\Agl.Test\Agl.Test.Data\bin\Debug\Agl.Test.Domain.pdb
+c:\Projects\Agl.Test\Agl.Test.Data\bin\Debug\Newtonsoft.Json.xml
+c:\Projects\Agl.Test\Agl.Test.Data\obj\Debug\Agl.Test.Data.dll
+c:\Projects\Agl.Test\Agl.Test.Data\obj\Debug\Agl.Test.Data.pdb

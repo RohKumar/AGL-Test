@@ -1,0 +1,4 @@
+c:\Projects\Agl.Test\Agl.Test.Domain\bin\Debug\Agl.Test.Domain.dll
+c:\Projects\Agl.Test\Agl.Test.Domain\bin\Debug\Agl.Test.Domain.pdb
+c:\Projects\Agl.Test\Agl.Test.Domain\obj\Debug\Agl.Test.Domain.dll
+c:\Projects\Agl.Test\Agl.Test.Domain\obj\Debug\Agl.Test.Domain.pdb
